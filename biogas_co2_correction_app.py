@@ -38,4 +38,4 @@ if isclose(V_CO2_loss_water, 0.0, abs_tol=0.001):
 else:
     st.info("Consider using brine or applying correction for more accurate methane yield estimates.")
 
-st.caption("Developed by [Your Name] | For small-scale anaerobic digestion experiments")
+st.caption("Developed by Solomon | For small-scale anaerobic digestion experiments")
